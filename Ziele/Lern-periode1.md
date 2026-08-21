@@ -1,4 +1,4 @@
-# Lern-Periode 5 / 6 / 7 / 8
+# Lern-Periode 1
 
 - Name: Tadeas Rojicek
 - Zeitraum: 21.08.2026 / 13.09.2026
@@ -24,12 +24,12 @@ Heute will ich mich für Cisco anmelden und starten.
 ### Planung 21.08.2024
 3 bis 5 klar messbare Arbeitspakete.
 
-- [ ] Cisco Anmelden
-- [ ] Am cisco arbeiten
-- [ ] Bei den ersten 3 Aufgaben fertig werden
+- [x] Cisco Anmelden
+- [x] Am cisco arbeiten
+- [x] Bei den ersten 3 Aufgaben fertig werden
 
 (Heute habe ich... (50-100 Wörter))
-
+Ich habe mich heute bei Cisco Academy angemeldet und habe gearbeitet. Ich meldete mich für Python an. Ich startete mit Python Essentials 1, es ist aber zu einfach also werde ich nachher zu Essentials 2 wächseln. Ich habe die erste Kapitel ferdig gemacht, also viel mehr als ich erwartet habe
 
 ### Planung 28.08.2024
 3 bis 5 klar messbare Arbeitspakete.
