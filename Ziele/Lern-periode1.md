@@ -34,11 +34,11 @@ Ich habe mich heute bei Cisco Academy angemeldet und habe gearbeitet. Ich meldet
 ### Planung 28.08.2024
 3 bis 5 klar messbare Arbeitspakete.
 
-- [ ] Erstes Arbeitspaket
-- [ ] ...
-- [X] Viertes AP
+- [x] Python
+- [x] C-Sharp Projekte
+- [X] Arduino vielleicht 
 
 (Heute habe ich... (50-100 Wörter))
-
+ich habe heute alle meine Ziele erreicht. Ich habe an Cisco Python gearbeitet und habe auch meine Projekte in C-Sharp verbessert. Ich konnte mich auch gut kontyentrieren.
 ## Lernperiode Reflexion
 (In dieser Lernperiode habe ich... (100-150 Wörter))
