@@ -21,7 +21,7 @@ ich will in CSS besser werden.
 21.08.2026
 Heute will ich mich für Cisco anmelden und starten.
 
-### Planung 21.08.2024
+### Planung 21.08.2026
 3 bis 5 klar messbare Arbeitspakete.
 
 - [x] Cisco Anmelden
@@ -31,7 +31,7 @@ Heute will ich mich für Cisco anmelden und starten.
 (Heute habe ich... (50-100 Wörter))
 Ich habe mich heute bei Cisco Academy angemeldet und habe gearbeitet. Ich meldete mich für Python an. Ich startete mit Python Essentials 1, es ist aber zu einfach also werde ich nachher zu Essentials 2 wächseln. Ich habe die erste Kapitel ferdig gemacht, also viel mehr als ich erwartet habe
 
-### Planung 28.08.2024
+### Planung 28.08.2026
 3 bis 5 klar messbare Arbeitspakete.
 
 - [x] Python
@@ -41,4 +41,14 @@ Ich habe mich heute bei Cisco Academy angemeldet und habe gearbeitet. Ich meldet
 (Heute habe ich... (50-100 Wörter))
 ich habe heute alle meine Ziele erreicht. Ich habe an Cisco Python gearbeitet und habe auch meine Projekte in C-Sharp verbessert. Ich konnte mich auch gut kontyentrieren.
 ## Lernperiode Reflexion
+
+### Planung 04.09.2026
+3 bis 5 klar messbare Arbeitspakete.
+
+- [x] Für OBA lernen
+- [x] Mission 1-6 durchmachen
+- [X] Quiz fürs lernen machen 
+
+(Heute habe ich... (50-100 Wörter))
+
 (In dieser Lernperiode habe ich... (100-150 Wörter))
