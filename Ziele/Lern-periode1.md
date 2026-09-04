@@ -50,5 +50,5 @@ ich habe heute alle meine Ziele erreicht. Ich habe an Cisco Python gearbeitet un
 - [X] Quiz fürs lernen machen 
 
 (Heute habe ich... (50-100 Wörter))
-
+Heute habe ich für die OBA Prüfung gelernt. Ich habe Zussammenfassung mit hifle von KI gemacht und noch einen Übungstest dazu. Ich habe die Mission 1-9 durchgearbeitet und fühle mich jetzt bereit auf die Prüfung.
 (In dieser Lernperiode habe ich... (100-150 Wörter))
