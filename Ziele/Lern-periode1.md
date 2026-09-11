@@ -51,4 +51,14 @@ ich habe heute alle meine Ziele erreicht. Ich habe an Cisco Python gearbeitet un
 
 (Heute habe ich... (50-100 Wörter))
 Heute habe ich für die OBA Prüfung gelernt. Ich habe Zussammenfassung mit hifle von KI gemacht und noch einen Übungstest dazu. Ich habe die Mission 1-9 durchgearbeitet und fühle mich jetzt bereit auf die Prüfung.
+
+### Planung 11.09.2026
+3 bis 5 klar messbare Arbeitspakete.
+
+- [x] Python Cisco - 3 Missionen
+- [x] Mit Unity anfangen
+- [X] An Arduino arbeiten. 
+
+(Heute habe ich... (50-100 Wörter))
+
 (In dieser Lernperiode habe ich... (100-150 Wörter))
