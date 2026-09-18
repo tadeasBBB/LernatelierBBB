@@ -60,5 +60,15 @@ Heute habe ich für die OBA Prüfung gelernt. Ich habe Zussammenfassung mit hifl
 - [X] An Arduino arbeiten. 
 
 (Heute habe ich... (50-100 Wörter))
+ich habe heute alle meine Ziele erreicht. Ich habe an Cisco Python gearbeitet und habe auch meine Projekte in Unitykentinisse verbessert. Ich konnte mich auch gut kontyentrieren.
+
+### Planung 18.09.2026
+3 bis 5 klar messbare Arbeitspakete.
+
+- [x] Python Cisco - 3 Missionen
+- [x] Mit Unity arbeiten. 2D Spiel
+- [X] C# lernen
+
+(Heute habe ich... (50-100 Wörter))
 
 (In dieser Lernperiode habe ich... (100-150 Wörter))
