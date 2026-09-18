@@ -70,5 +70,6 @@ ich habe heute alle meine Ziele erreicht. Ich habe an Cisco Python gearbeitet un
 - [X] C# lernen
 
 (Heute habe ich... (50-100 Wörter))
+Heute habe ich an den Python Missionen gemacht und an Unity gearbeitet. Ich habe auch einen Password Cracker in C# gemacht
 
 (In dieser Lernperiode habe ich... (100-150 Wörter))
