@@ -72,4 +72,15 @@ ich habe heute alle meine Ziele erreicht. Ich habe an Cisco Python gearbeitet un
 (Heute habe ich... (50-100 Wörter))
 Heute habe ich an den Python Missionen gemacht und an Unity gearbeitet. Ich habe auch einen Password Cracker in C# gemacht
 
+### Planung 25.09.2026
+3 bis 5 klar messbare Arbeitspakete.
+
+- [x] Python Cisco - 3 Missionen
+- [x] Lern Periode 1 fertig
+- [X] C# lernen
+
+(Heute habe ich... (50-100 Wörter))
+Heute habe ich an den Python Missionen gemacht und an Unity gearbeitet. Ich habe auch den Password Cracker verbessert und einen Notenkalkulator gemacht.
+
 (In dieser Lernperiode habe ich... (100-150 Wörter))
+Ich habe viel an Python Missionen gearbeitet und mich in Unity erkundet. Ich habe auch ein paar C# Projekten gemacht die mir gelungen sind. Ich habe aber nicht so viel in arduino gearbeitet was einbischen Schade ist, aber wenn ich mit Makerspace nachste Periode anfange, kann ich mit Arduino Projekte machen.
