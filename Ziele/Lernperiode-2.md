@@ -76,7 +76,7 @@ Beispiele:
 -->
 
 - [ ] Für die Abschluss Prüfung des Moduls 319 lernen
-- [ ] Im Modul 431 5 Aufgaben Machen
+- [x] Im Modul 431 5 Aufgaben Machen
 - [ ] An Robotik Projekten arbeiten
 
 #### Tagesreflexion
