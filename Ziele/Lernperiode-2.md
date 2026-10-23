@@ -64,6 +64,31 @@ Tagesüberschrift eines dieser Schlüsselwörter allein auf eine Zeile:
 absence, absent, Absenz, abwesend, krank, Krankheit.
 -->
 
+### Planung 23.10.2026
+<!--
+Planen Sie 3 bis 5 **klar messbare** Arbeitspakete.
+Umfang: ca. 30 - 60 Minuten je Arbeitspaket
+Markieren Sie beendete Arbeitspakete mit einem x.
+
+Beispiele:
+- [ ] noch nicht erledigte Aufgabe
+- [x] erledigte Aufgabe
+-->
+
+- [x] Für die Abschluss Prüfung des Moduls 319 lernen
+- [x] Im Modul 431 5 Aufgaben Machen
+- [x] An Robotik Projekten arbeiten
+
+#### Tagesreflexion
+<!--
+Mögliche Themen: Was lief erstaunlich gut/schlecht? Wo ging der Plan nicht auf
+und wieso? Was konnten Sie daraus für Ihr Vorgehen lernen?
+Nicht wiederholen, was die Checkboxen schon aussagen.
+Umfang: 50 - 100 Wörter (ungefähr 3 - 6 Sätze)
+-->
+
+Ich könnte heute meinen Plan erledigen ,aber ich dachte, ich würde weniger Zeit an dem Modul 431 verbringen. Es ist aber auch ziemlich viel. Ich habe auch an meiner Zussammenfassung für den Modul 319, das lief gut. Ich verbrachte aber nicht viel zeit an den Robotik Projekten. Was Schade weil es mir ziemlich viel Spass macht. 
+
 ### Planung tt.mm.jjjj
 <!--
 Planen Sie 3 bis 5 **klar messbare** Arbeitspakete.
@@ -75,9 +100,9 @@ Beispiele:
 - [x] erledigte Aufgabe
 -->
 
-- [ ] Für die Abschluss Prüfung des Moduls 319 lernen
-- [x] Im Modul 431 5 Aufgaben Machen
-- [ ] An Robotik Projekten arbeiten
+- [x] 
+- [x] 
+- [x] 
 
 #### Tagesreflexion
 <!--
@@ -87,12 +112,7 @@ Nicht wiederholen, was die Checkboxen schon aussagen.
 Umfang: 50 - 100 Wörter (ungefähr 3 - 6 Sätze)
 -->
 
-...Ihr Text...
 
-
-<!--
-Fügen Sie hier die weiteren Tage der Lernperiode ein.
--->
 
 ## Lernperiode Reflexion
 <!--
