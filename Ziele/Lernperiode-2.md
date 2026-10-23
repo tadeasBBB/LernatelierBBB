@@ -18,8 +18,8 @@ Diese Blöcke können Sie entfernen oder zur Orientierung stehen lassen.
 8.  Speichern Sie die Datei und publizieren Sie sie (`git push`).
 -->
 
-- Name: Exemplibus Exemplio
-- Zeitraum: tt.mm.jjjj bis tt.mm.jjjj
+- Name: Tadeas Rojicek
+- Zeitraum: 23.10.2026 bis 18.12.2026
 
 ## Grob-Planung
 
@@ -29,14 +29,14 @@ Wo stehen Sie mit Ihren Noten? In welchen Modulen waren Sie besonders stark;
 in welchen sind die ungenügend? Welche davon sind besonders wichtig?
 -->
 
-...Ihr Text...
+Die erste und einzige Note die wir bekommen haben war OBA von Modul 319. Wo ich eine 6 habe.
 
 ### Veränderungen
 <!--
 Was möchten Sie generell im Vergleich zur letzten Lernperiode anpassen?
 -->
 
-...Ihr Text...
+Ich will mich mehr an Projekten in Makerspace arbeiten.
 
 ### Projekte / neue Technologien
 <!--
@@ -45,14 +45,14 @@ Verlinken Sie zu den GitHub Repos Ihrer Projekte.
 (Können Sie später nach und nach einfügen.)
 -->
 
-...Ihr Text...
+Ich will in Makerspace arbeiten
 
 ### Generelle Ziele
 <!--
 Was haben Sie für klare und messbare Ziele in dieser Lernperiode?
 -->
 
-...Ihr Text...
+Mindestens 3 Projekte jeglicher Art machen
 
 ## Tagesplanungen
 <!--
@@ -75,10 +75,9 @@ Beispiele:
 - [x] erledigte Aufgabe
 -->
 
-- [ ] ...Ihr Text...
-- [ ] ...Ihr Text...
-- [ ] ...Ihr Text...
-
+- [ ] Für die Abschluss Prüfung des Moduls 319 lernen
+- [ ] Im Modul 431 5 Aufgaben Machen
+- [ ] An Robotik Projekten arbeiten
 
 #### Tagesreflexion
 <!--
