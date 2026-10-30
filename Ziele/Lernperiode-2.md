@@ -89,6 +89,29 @@ Umfang: 50 - 100 Wörter (ungefähr 3 - 6 Sätze)
 
 Ich könnte heute meinen Plan erledigen ,aber ich dachte, ich würde weniger Zeit an dem Modul 431 verbringen. Es ist aber auch ziemlich viel. Ich habe auch an meiner Zussammenfassung für den Modul 319, das lief gut. Ich verbrachte aber nicht viel zeit an den Robotik Projekten. Was Schade weil es mir ziemlich viel Spass macht. 
 
+### Planung 30.10.2026
+<!--
+Planen Sie 3 bis 5 **klar messbare** Arbeitspakete.
+Umfang: ca. 30 - 60 Minuten je Arbeitspaket
+Markieren Sie beendete Arbeitspakete mit einem x.
+
+Beispiele:
+- [ ] noch nicht erledigte Aufgabe
+- [x] erledigte Aufgabe
+-->
+
+- [x] Robotik Projekte
+- [x] Unity
+- [x] 
+
+#### Tagesreflexion
+<!--
+Mögliche Themen: Was lief erstaunlich gut/schlecht? Wo ging der Plan nicht auf
+und wieso? Was konnten Sie daraus für Ihr Vorgehen lernen?
+Nicht wiederholen, was die Checkboxen schon aussagen.
+Umfang: 50 - 100 Wörter (ungefähr 3 - 6 Sätze)
+-->
+
 ### Planung tt.mm.jjjj
 <!--
 Planen Sie 3 bis 5 **klar messbare** Arbeitspakete.
@@ -111,7 +134,6 @@ und wieso? Was konnten Sie daraus für Ihr Vorgehen lernen?
 Nicht wiederholen, was die Checkboxen schon aussagen.
 Umfang: 50 - 100 Wörter (ungefähr 3 - 6 Sätze)
 -->
-
 
 
 ## Lernperiode Reflexion
