@@ -100,9 +100,9 @@ Beispiele:
 - [x] erledigte Aufgabe
 -->
 
-- [x] Robotik Projekte
-- [x] Unity
-- [x] 
+- [x] Unity Enemies kodieren
+- [x] Unity Bewegungen kodieren
+- [x] Unity Schiessen kodieren
 
 #### Tagesreflexion
 <!--
@@ -111,7 +111,7 @@ und wieso? Was konnten Sie daraus für Ihr Vorgehen lernen?
 Nicht wiederholen, was die Checkboxen schon aussagen.
 Umfang: 50 - 100 Wörter (ungefähr 3 - 6 Sätze)
 -->
-
+Ich konnte alle meine Aufgaben fertig machen, das Schiessen wurde kodiert, Enemies und Bewegungen soeben. Ich habe viel repetiert ,denn ich schon in Unity gearbeitet habe. Ich habe auch viele neue Sachen über dem Neuen InputSystem gelernt. Zur Hilfe war mir Claude und Youtube sehr hilfreich
 ### Planung tt.mm.jjjj
 <!--
 Planen Sie 3 bis 5 **klar messbare** Arbeitspakete.
