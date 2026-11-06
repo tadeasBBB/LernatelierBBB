@@ -124,8 +124,8 @@ Beispiele:
 -->
 
 - [x] Grafiken machen
-- [x] Enemy programieren
-- [x] Todoliste machen
+- [] Enemy programieren
+- [] Todoliste machen
 
 #### Tagesreflexion
 <!--
@@ -134,7 +134,7 @@ und wieso? Was konnten Sie daraus für Ihr Vorgehen lernen?
 Nicht wiederholen, was die Checkboxen schon aussagen.
 Umfang: 50 - 100 Wörter (ungefähr 3 - 6 Sätze)
 -->
-
+heute habe ich vieles nicht gemacht. Ich habe nur Grafiken geschaft denn es gab ein sehr grosser Problem den wir fixen mussen. Darauf haben wir rund um 2 Stunden gebraucht was sehr lange war. aber am Ende haben wir es geschaft.
 
 ## Lernperiode Reflexion
 <!--
