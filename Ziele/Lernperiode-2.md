@@ -147,7 +147,7 @@ Beispiele:
 - [x] erledigte Aufgabe
 -->
 
-- [x] Boss programieren
+- [x] Boss programieren (ein Teil wird zuhause gemacht)
 - [x] Tutorial programieren
 - [x] Storyboard machen
 
