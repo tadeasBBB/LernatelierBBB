@@ -136,6 +136,31 @@ Umfang: 50 - 100 Wörter (ungefähr 3 - 6 Sätze)
 -->
 heute habe ich vieles nicht gemacht. Ich habe nur Grafiken geschaft denn es gab ein sehr grosser Problem den wir fixen mussen. Darauf haben wir rund um 2 Stunden gebraucht was sehr lange war. aber am Ende haben wir es geschaft.
 
+### Planung 13.11.2026
+<!--
+Planen Sie 3 bis 5 **klar messbare** Arbeitspakete.
+Umfang: ca. 30 - 60 Minuten je Arbeitspaket
+Markieren Sie beendete Arbeitspakete mit einem x.
+
+Beispiele:
+- [ ] noch nicht erledigte Aufgabe
+- [x] erledigte Aufgabe
+-->
+
+- [x] Boss programieren
+- [x] Tutorial programieren
+- [x] Storyboard machen
+
+#### Tagesreflexion
+<!--
+Mögliche Themen: Was lief erstaunlich gut/schlecht? Wo ging der Plan nicht auf
+und wieso? Was konnten Sie daraus für Ihr Vorgehen lernen?
+Nicht wiederholen, was die Checkboxen schon aussagen.
+Umfang: 50 - 100 Wörter (ungefähr 3 - 6 Sätze)
+-->
+
+
+
 ## Lernperiode Reflexion
 <!--
 Am Ende der Lernperiode schreiben Sie eine Reflexion über die gesamte Lernperiode.
