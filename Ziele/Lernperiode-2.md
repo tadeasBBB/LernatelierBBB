@@ -158,7 +158,7 @@ und wieso? Was konnten Sie daraus für Ihr Vorgehen lernen?
 Nicht wiederholen, was die Checkboxen schon aussagen.
 Umfang: 50 - 100 Wörter (ungefähr 3 - 6 Sätze)
 -->
-
+ich habe den boss programiert mit dem Tutorialplatz und ich und Edi, wir haben ein Storyboard fur das Spiel gemacht. Zuhause habe ich dann die Angriffe besser gemacht und die Logik des Bosses wurde auch besser gemacht.
 
 
 ## Lernperiode Reflexion
