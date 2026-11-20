@@ -276,28 +276,6 @@ Nicht wiederholen, was die Checkboxen schon aussagen.
 Umfang: 50 - 100 Wörter (ungefähr 3 - 6 Sätze)
 -->
 
-### Planung ..
-<!--
-Planen Sie 3 bis 5 **klar messbare** Arbeitspakete.
-Umfang: ca. 30 - 60 Minuten je Arbeitspaket
-Markieren Sie beendete Arbeitspakete mit einem x.
-
-Beispiele:
-- [ ] noch nicht erledigte Aufgabe
-- [x] erledigte Aufgabe
--->
-
-- [x] (wird zuhause gemacht)
-- [x] 
-- [x] 
-
-#### Tagesreflexion
-<!--
-Mögliche Themen: Was lief erstaunlich gut/schlecht? Wo ging der Plan nicht auf
-und wieso? Was konnten Sie daraus für Ihr Vorgehen lernen?
-Nicht wiederholen, was die Checkboxen schon aussagen.
-Umfang: 50 - 100 Wörter (ungefähr 3 - 6 Sätze)
--->
 
 ## Lernperiode Reflexion
 <!--
