@@ -184,7 +184,7 @@ Umfang: 50 - 100 Wörter (ungefähr 3 - 6 Sätze)
 -->
 Heute habe ich ziemlich gut den 2 Level gemacht, es ist gut rausgekommen. Zuhause habe ich noch den Boss programiert und Smash besser gemacht. An dem Playermovement habe ich gearbeitet das ist auch gut gelungen obwohl es ein Paar Errors gab.
 
-### Planung ..
+### Planung 27.11.2026
 <!--
 Planen Sie 3 bis 5 **klar messbare** Arbeitspakete.
 Umfang: ca. 30 - 60 Minuten je Arbeitspaket
@@ -195,9 +195,9 @@ Beispiele:
 - [x] erledigte Aufgabe
 -->
 
-- [x] (wird zuhause gemacht)
-- [x] 
-- [x] 
+- [x] Die Kamera verfeinern(wird zuhause gemacht)
+- [x] Weitere Levels machen
+- [x] Neue Gegner(Tank und Bowmen)
 
 #### Tagesreflexion
 <!--
